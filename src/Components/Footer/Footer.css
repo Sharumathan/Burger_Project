@@ -1,0 +1,43 @@
+.footer {
+    background-color: #222; /* Dark background for contrast */
+    color: #fff; /* White text color */
+    padding: 20px;
+    text-align: center; /* Center the content */
+    font-family: Arial, sans-serif;
+    border-top: 3px solid #ffcc00; /* Add a colored border on top */
+  }
+  
+  .footer-software {
+    margin-bottom: 10px; /* Add spacing below */
+    font-size: 14px; /* Adjust text size for readability */
+    color: #ddd; /* Subtle color for secondary text */
+  }
+  
+  .creator-highlight {
+    color: #ffcc00; /* Highlighted color for emphasis */
+    font-weight: bold; /* Bold for extra emphasis */
+  }
+  
+  .footer-copyright {
+    font-size: 12px; /* Smaller text for copyright notice */
+    color: #aaa; /* Dim color for less emphasis */
+    border-top: 1px solid #444; /* Divider line for separation */
+    padding-top: 10px; /* Space above the copyright text */
+    margin-top: 10px; /* Space between sections */
+  }
+  
+  /* Mobile responsive adjustments */
+  @media (max-width: 600px) {
+    .footer {
+      padding: 15px; /* Reduce padding for smaller screens */
+    }
+  
+    .footer-software {
+      font-size: 12px; /* Reduce font size for mobile */
+    }
+  
+    .footer-copyright {
+      font-size: 10px; /* Smaller text for mobile */
+    }
+  }
+  

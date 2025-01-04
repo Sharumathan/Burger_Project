@@ -1,0 +1,52 @@
+.burger-image-1{
+    margin-top: 200px;
+    width: 300px;
+    position: absolute;
+    
+}
+
+.burger_1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.frane_burger_word{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    object-fit: cover;
+    overflow: hidden;
+    
+}
+.Burger_word{
+    width: 150%;
+    margin-top: 30px;
+    
+}
+
+.burger_price
+{   position: absolute;
+    width: 60%;
+    
+}
+.price_frame{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.comming-soon{
+    margin-top: 130px;
+    width: 100%;
+}
+.commingsoonr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
