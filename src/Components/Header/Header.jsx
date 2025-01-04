@@ -1,7 +1,7 @@
 import React from 'react'
 import './Header.css'
-import Logo from '../assets/logo.png'
-import Menu from '../assets/menu-icon.png'
+import Logo from '../../assets/logo.png'
+import Menu from '../../assets/menu-icon.png'
 const Header = () => {
   return (
     <div class = 'header'>
