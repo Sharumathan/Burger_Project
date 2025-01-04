@@ -1,9 +1,9 @@
 import React, { useEffect } from 'react'; 
 import './Body.css';
-import Burger_image_1 from '/assets/Burger-image-1.png';
-import Burger_word from '/assets/Burger-word.png';
-import Price from '/assets/price.png';
-import Comming_Soon2 from '/assets/coming-soon2.png';
+import Burger_image_1 from '../assets/Burger-image-1.png';
+import Burger_word from '../assets/Burger-word.png';
+import Price from '../assets/price.png';
+import Comming_Soon2 from '../assets/coming-soon2.png';
 
 const Body = () => {
   useEffect(() => {
